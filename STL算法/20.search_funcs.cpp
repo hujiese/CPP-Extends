@@ -1,0 +1,5 @@
+binary_search()
+includes()
+lower_bound()
+upper_bound()
+equal_range()
